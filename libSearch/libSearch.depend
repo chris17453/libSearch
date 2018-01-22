@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1516595205 source:/home/nd/repos/libSearch/dllmain.cpp
+	"stdafx.h"
+	"module.h"
+
+1516595204 /home/nd/repos/libSearch/stdafx.h
+	"targetver.h"
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"list.h"
+
+1516595205 /home/nd/repos/libSearch/targetver.h
+
+1516595205 /home/nd/repos/libSearch/list.h
+
+1516594364 /home/nd/repos/libSearch/module.h
+
+1516595205 source:/home/nd/repos/libSearch/libSearch.cpp
+	"stdafx.h"
+
+1516595205 source:/home/nd/repos/libSearch/stdafx.cpp
+	"stdafx.h"
+	<ctype.h>
+
